@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ATMINTERFACE {
     private static double balance = 0.3;
-    private static final int PIN = 0912; 
+    private static final int PIN = 2003; 
     private static int attempts = 3;
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
